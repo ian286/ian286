@@ -9,7 +9,7 @@
 - Explorando o mundo do desenvolvimento e da tecnologia.
 - Cursando **Ciências da Computação**.
 - Aprofundando conhecimentos em **Linux** e **Python**.
-- Brasileiro, 18 anos.
+- Brasileiro, 19 anos.
 - Sempre aprendendo coisas novas e buscando desafios!
 
 ---
